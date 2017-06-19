@@ -4,3 +4,6 @@
 /Core/obj/Debug/*
 /Counter/obj/Debug/*
 *.suo
+*.config
+*.manifest
+*.pdb
