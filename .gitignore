@@ -1,0 +1,6 @@
+*.exe
+*.cache
+*.csproj
+/Core/obj/Debug/*
+/Counter/obj/Debug/*
+*.suo
