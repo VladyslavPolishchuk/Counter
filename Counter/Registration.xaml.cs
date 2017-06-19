@@ -10,25 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Counter
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Registration.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Registration : Window
     {
-        public MainWindow()
+        public Registration()
         {
             InitializeComponent();
-        }
-
-        private void RegistrationClick(object sender, RoutedEventArgs e)
-        {
-            Registration regWindow = new Registration();
-            regWindow.ShowDialog();
         }
     }
 }
