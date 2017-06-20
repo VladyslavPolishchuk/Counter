@@ -17,3 +17,10 @@ C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\C
 C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\Controls\ParticipantViewer.g.cs
 C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\Counter_MarkupCompile.lref
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\bin\Debug\Core.dll
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\bin\Debug\EntityFramework.dll
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\bin\Debug\Core.pdb
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\bin\Debug\EntityFramework.xml
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\bin\Debug\EntityFramework.SqlServer.xml
