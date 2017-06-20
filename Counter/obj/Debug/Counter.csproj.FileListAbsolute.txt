@@ -14,3 +14,7 @@ C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\C
 C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\Counter.pdb
 C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\Registration.baml
 C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\Registration.g.cs
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\Controls\ParticipantViewer.baml
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\Controls\ParticipantViewer.g.cs
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Владислав Олегович\Desktop\Counter\Counter\obj\Debug\Counter_MarkupCompile.lref

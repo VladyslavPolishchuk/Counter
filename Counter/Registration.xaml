@@ -1,9 +1,10 @@
 ﻿<Window x:Class="Counter.Registration"
+        xmlns:controls="clr-namespace:Counter.Controls;assembly="
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Registration" Height="400" Width="600">
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"       
+        Title="Registration" Height="500" Width="800">
     <Grid>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="125"/>
-
+        <controls:ParticipantViewer Margin="10,10,0,0" />
+        <controls:ParticipantViewer Margin="300,10,0,0" />
     </Grid>
 </Window>
