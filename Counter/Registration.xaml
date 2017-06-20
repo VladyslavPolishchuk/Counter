@@ -4,7 +4,8 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"       
         Title="Registration" Height="500" Width="800">
     <Grid>
-        <controls:ParticipantViewer Margin="10,10,0,0" />
-        <controls:ParticipantViewer Margin="300,10,0,0" />
+        <controls:ParticipantViewer Margin="10,10" />
+        <controls:ParticipantViewer Margin="200,10" />
+        <Button Content="Сохранить" HorizontalAlignment="Left" Margin="707,439,0,0" VerticalAlignment="Top" Width="75" Click="SaveClick"/>
     </Grid>
 </Window>
